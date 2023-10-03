@@ -1,0 +1,28 @@
+{
+  "id": "crucible-ask-dc",
+  "title": "Crucible Ask For DC",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "authors": [
+    {
+      "name": "cah98",
+      "discord": "cah98"
+    }
+  ],
+  "scripts": [
+    "scripts/crucible-ask-dc.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "crucible",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "https://github.com/cah-98/fvtt-crucible-ask-dc"
+}
